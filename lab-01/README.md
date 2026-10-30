@@ -2,7 +2,7 @@
 
 Name: N PRANITHA · Registration Number: 252U1R9110  · Section:111
 
-Live link: Not deployed yet
+Live link: https://bdf-lab-01-wzlq.onrender.com
 
 ## How to run
 
